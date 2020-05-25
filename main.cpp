@@ -1,8 +1,5 @@
-//#include "func.h"
-//#include <thread>
 #include <iostream>         //std::cout
 #include <semaphore.h>      //sem_t
-//#include <deque>
 #include "types.h"
 #include "queue.h"
 
